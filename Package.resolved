@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MagazineLayout",
+        "repositoryURL": "https://github.com/sereivoanyong/MagazineLayout",
+        "state": {
+          "branch": "master",
+          "revision": "f070dafdf86071b96a2e915912d7555e6a3fa4d3",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
